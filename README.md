@@ -1,6 +1,6 @@
 ## Who is Aday Mesa?
 
-I am a junior software developer, future dad and also a traveller who is eager of knowledge and new challenges. I am positive minded, flexible and emphatic. Code wise, maintainability and simplicity are my two best friends, always followed by the industry best practices. I believe in lifelong learning as a way of life. I am not seeking for just a job, I am looking for the opportunity to bring value and keep learning. I am available 1st July, 2016.
+I am a junior software developer, future dad and also a traveller who is eager of knowledge and new challenges. I am positive minded, flexible and emphatic. Code wise, maintainability and simplicity are my two best friends, always followed by the industry best practices. I believe in lifelong learning as a way of life. I am not seeking for just a job, I am looking for the opportunity to bring value and keep learning. **I am available 1st July, 2016**.
 
 ## Skills
 
@@ -50,23 +50,19 @@ A twelve week bootcamp focused on:
 **Etelier/Atelier By Coby Loots, Tilburg/Eindhoven, The Netherlands (August 2014 – February 2015)** <br />
 *Waiter*
 
-**Social Club Sport San Jose, Canary Islands, Spain (September 2013 – March 2014)**  <br />                       
+**Social Club Sport San Jose, Canary Islands, Spain (September 2013 – March 2014)** <br />                       
 *Event coordinator as apprentice*
-
 
 ## Interests and hobbies
 
 * Assemble computers to family and friends
 * Bake bread, brew coffee and general cooking
-* ROL videogames
+* ROL games
 * Music festivals
 
 ## Contact
 
-####Contact
 **Email:** adaymesagc@gmail.com<br>
-**LinkedIn:** [https://uk.linkedin.com/in/aday-mesa-ojeda-0650b476
-]( https://uk.linkedin.com/in/aday-mesa-ojeda-0650b476
-)<br>
+**LinkedIn:** [linkedin.com/in/Aday-Mesa](https://uk.linkedin.com/in/aday-mesa-ojeda-0650b476)<br>
 **GitHub:** [github.com/adaymesa](https://github.com/adaymesa)<br>
 
