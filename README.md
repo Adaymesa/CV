@@ -50,7 +50,7 @@ A twelve week bootcamp focused on:
 **Etelier/Atelier By Coby Loots, Tilburg/Eindhoven, The Netherlands (August 2014 – February 2015)** <br />
 *Waiter*
 
-**Social Club Sport San Jose, Canary Islands, Spain (September 2013 – March 2014)** <br />                       
+**Social Club Sport San Jose, Canary Islands, Spain (September 2013 – March 2014)** <br />
 *Event coordinator as apprentice*
 
 ## Interests and hobbies
@@ -64,5 +64,5 @@ A twelve week bootcamp focused on:
 
 **Email:** adaymesagc@gmail.com<br>
 **LinkedIn:** [linkedin.com/in/Aday-Mesa](https://uk.linkedin.com/in/aday-mesa-ojeda-0650b476)<br>
-**GitHub:** [github.com/adaymesa](https://github.com/adaymesa)<br>
+**GitHub:** [github.com/adaymesa](https://github.com/adaymesa)
 
