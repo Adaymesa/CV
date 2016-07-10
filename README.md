@@ -19,7 +19,7 @@ For the Makers Academy final project, I worked with technologies that I had neve
 ## Projects
 
 **[Makers Invaders](https://makers-invaders.herokuapp.com)** | Makers Academy final project<br />
-Phaser, ES6, Karma, Jasmine, JavaScript, Browser: Interactive 2D game with different levels of difficulty.
+Phaser, ES6, Karma, Jasmine, JavaScript, Browserify: Interactive 2D game with different levels of difficulty.
 
 **[Air_BnB]( https://github.com/Adaymesa/air_bnb)** | Makerthon project<br />
 Sinatra, Ruby, Postgres, RSpec, Capybara, CSS, HTML: A hosting website similar to AirBnb, where the user can host or be hosted.
