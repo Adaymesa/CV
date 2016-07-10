@@ -1,6 +1,6 @@
 ## Who is Aday Mesa?
 
-I am a junior software developern and traveller who is eager for knowledge and new challenges. I am positive minded, flexible, and emphatic. In terms of code, I strive for maintainability and simplicity, and always follow the industry best practices. I believe in continuous learning as a way of life and am not seeking merely a job, but an opportunity where I can bring value and keep learning.
+I am a junior software developer and traveller who is eager for knowledge and new challenges. I am positive minded, flexible, and emphatic. In terms of code, I strive for maintainability and simplicity, and always follow the industry best practices. I believe in continuous learning as a way of life and am not seeking merely a job, but an opportunity where I can bring value and keep learning.
 
 ## Skills
 
