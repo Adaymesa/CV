@@ -41,7 +41,7 @@ A 12 week bootcamp focused on:
 
 ## Experience
 
-**The Culpeper, London, UK (March 2015 – Present)** <br />
+**The Culpeper, London, UK (March 2015 – August 2016)** <br />
 *Bartender*
 
 **AirBnB House Rental, Brussels, Belgium (August 2015 – January 2016)** <br />
