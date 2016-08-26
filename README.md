@@ -63,7 +63,7 @@ A 12 week bootcamp focused on:
 ## Contact
 
 **Email:** adaymesagc@gmail.com<br>
-**Blog:** [adaymesa.com](https://www.adaymesa.com)
+**Blog:** [adaymesa.com](https://www.adaymesa.com)<br>
 **LinkedIn:** [linkedin.com/in/Aday-Mesa](https://uk.linkedin.com/in/adaymesa)<br>
 **GitHub:** [github.com/adaymesa](https://github.com/adaymesa)
 
